@@ -6,9 +6,10 @@ The file in export.zip first has to be extracted (it is 10.6 GB when unzipped).
 
 Make sure to change the file path if running the data on your own computer.
 
-Datasets used for predictions:
-fProphet: monthly_crimes_10_21
-Auto Arima: monthly_crimes_10_21
+Per notebook you need the following datasets: 
+1. fProphet: monthly_crimes_10_21
+2. Auto Arima: monthly_crimes_10_21
+3. Multivariate regression: export.zip, Funding data, IMD2019, lsoa pop estimates
 
 
 
